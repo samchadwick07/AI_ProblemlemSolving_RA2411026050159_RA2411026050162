@@ -1,8 +1,8 @@
 # AI Problem Solving Assignment
 
 ## Student Details
-- **Name:** Your Name
-- **Register Number:** Your Register Number
+- **Name:** (1) SAM CHADWICK J (2) SUDHAN M
+- **Register Number:** (1) RA2411026050159 (2) RA2411026050162
 
 ## Project Overview
 This project implements two Artificial Intelligence problem-solving techniques using Python and Streamlit for interactive visualization.
